@@ -10,6 +10,6 @@ Multi-language multi-module sample project
 - **Groovy** - with coverage
 
 #### How to run
-- Using Sonar Runner: *(Java classes are already compiled in "target/classes" for your convenience)*
+- Using Sonar Scanner: *(Java classes are already compiled in "target/classes" for your convenience)*
 
-> sonar-runner
+> sonar-scanner
